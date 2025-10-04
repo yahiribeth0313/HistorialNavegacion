@@ -42,8 +42,6 @@ HistorialNavegacion/
 │── Program.cs # Código principal
 │── README.md # Documentación
 
-yaml
-Copy code
 
 ---
 
